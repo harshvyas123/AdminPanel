@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh_vyas</h1>
+<h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/1219473617/vector/young-male-character-writing-code-on-a-desktop-computer-working-from-home-millennials-at-work.jpg?s=612x612&w=0&k=20&c=9KrYfX8M5lFqpUN2y5Pklac_XebWqnI0bmDkMB6NLhU=">
